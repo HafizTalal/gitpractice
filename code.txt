@@ -1,2 +1,6 @@
 python
 language
+Hi
+Bye
+GIT
+GITHUB
